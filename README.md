@@ -1,14 +1,14 @@
 # Landing Page
 
-##Description
+## Description
 Multi-section landing page featuring a dynamic menu and smooth scroll effect.
 
-##Features
+## Features
 - Dynamic Menu
 - Smooth scroll to specific section of site
 - Active state when menu item is clicked
 
-##Technologies
+## Technologies
 - HTML
 - CSS
 - Vanilla JavaScript
