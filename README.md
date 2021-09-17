@@ -1,4 +1,4 @@
-# udacity-p2-landing-page
+# Landing Page
 
 Some description!
 
