@@ -1,7 +1,17 @@
 # Landing Page
 
-Some description!
+##Description
+Multi-section landing page featuring a dynamic menu and smooth scroll effect.
 
-# DEMO
+##Features
+- Dynamic Menu
+- Smooth scroll to specific section of site
+- Active state when menu item is clicked
 
-DEMO site
+##Technologies
+- HTML
+- CSS
+- Vanilla JavaScript
+
+## DEMO
+[DEMO](https://ewstr.github.io/udacity-p2-landing-page/) site
